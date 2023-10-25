@@ -21,7 +21,6 @@ def choose_froyo():
     <form action="/froyo_results" method="GET">
         What is your favorite Fro-Yo flavor? <br/>
         <input type="text" name="flavor"><br/>
-        
          What is your favorite Fro-Yo toppings? <br/>
         <input type="text" name="toppings"><br/>
         <input type="submit" value="Submit!">
